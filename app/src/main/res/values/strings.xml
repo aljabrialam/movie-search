@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Movie Search</string>
+    <string name="search">Enter the movie title</string>
+    <string name="sort_length">Sort by movie length</string>
+    <string name="sort_genre">Sort by genre</string>
+    <string name="sort_price">Sort by price</string>
+    <string name="sort_default">Sort by default</string>
+    <string name="share_track">Share this movie</string>
+    <string name="from_album">FROM ALBUM</string>
+    <string name="album_title">%s - %s</string>
+    <string name="no_results">No results</string>
+    <string name="text_genre">Genre</string>
+    <string name="text_price">0 AUD</string>
+    <string name="text_track_title">Track title</string>
+    <string name="text_duration">0:00</string>
+    <string name="text_artist">Artist</string>
+    <string name="text_title">title</string>
+    <string name="text_description">description</string>
+    <string name="text_remove_tag">Remove Tag</string>
+    <string name="text_yes">YES</string>
+    <string name="text_no">No</string>
+</resources>
